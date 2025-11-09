@@ -15,8 +15,7 @@
 ### 1. Database Setup
 
 - Create Database: A database called p1_retail_db is created to store all project data.
-- Create Table: A table named retail_sales is built to hold the sales records, including details such as transaction ID, date, time, customer information, product category, quantity, pricing, cost, and total sales amount.
-
+- Create Table: A table named retail_sales is built to hold the sales records, including details
 
 ### 2. Data Exploration & Cleaning
 
