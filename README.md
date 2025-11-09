@@ -49,6 +49,7 @@ The SQL queries were developed to answer the following business questions:
 9. **Find the number of unique customers who purchased items from each category.
 
 10. **Create each shift and number of orders (Example Morning <12, Afternoon Between 12 & 17, Evening >17).
+    
 
 ## Findings
 
