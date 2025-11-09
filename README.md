@@ -24,7 +24,6 @@
 - **Category Count**: Identify all unique product categories in the dataset.
 - **Null Value Check**: Check for any null values in the dataset and delete records with missing data.
 
-
 ### 3. Data Analysis & Findings
 
 The SQL queries were developed to answer the following business questions:
@@ -56,6 +55,7 @@ The SQL queries were developed to answer the following business questions:
 - Big Purchases: Some transactions were over 1000, showing that high-value purchases were made.
 - Sales Patterns: Sales change from month to month, helping to spot busy and slow seasons.
 - Top Customers & Categories: The analysis highlights the highest-spending customers and the most popular product types.
+
 
 
 This project was developed as a part of the 'Beginner and Advanced Guide for Aspiring Data Analysts' by the YouTube Creator 'Zero Analyst'. [https://www.youtube.com/watch?v=ChIQjGBI3AM&t=422s]
