@@ -1,4 +1,4 @@
-# Retail Sales Analysis SQL Project
+# Retail Sales Analysis SQL Project Tutotial
 
 ## Project Overview
 
@@ -53,13 +53,9 @@ The SQL queries were developed to answer the following business questions:
 
 ## Findings
 
-- **Customer Demographics**: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.
-- **High-Value Transactions**: Several transactions had a total sale amount greater than 1000, indicating premium purchases.
-- **Sales Trends**: Monthly analysis shows variations in sales, helping identify peak seasons.
-- **Customer Insights**: The analysis identifies the top-spending customers and the most popular product categories.
+- Customer Overview: The data includes customers of different ages who purchased items across categories like Clothing and Beauty.
+- Big Purchases: Some transactions were over 1000, showing that high-value purchases were made.
+- Sales Patterns: Sales change from month to month, helping to spot busy and slow seasons.
+- Top Customers & Categories: The analysis highlights the highest-spending customers and the most popular product types.
 
-## Reports
 
-- **Sales Summary**: A detailed report summarizing total sales, customer demographics, and category performance.
-- **Trend Analysis**: Insights into sales trends across different months and shifts.
-- **Customer Insights**: Reports on top customers and unique customer counts per category.
