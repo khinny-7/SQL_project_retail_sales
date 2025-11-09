@@ -59,6 +59,6 @@ The SQL queries were developed to answer the following business questions:
 - Top Customers & Categories: The analysis highlights the highest-spending customers and the most popular product types.
 
 
-# **This project was developed as a part of the 'Beginner and Advanced Guide for Aspiring Data Analysts' by the YouTube Creator 'Zero Analyst'.**
+This project was developed as a part of the 'Beginner and Advanced Guide for Aspiring Data Analysts' by the YouTube Creator 'Zero Analyst'.**
 
 
