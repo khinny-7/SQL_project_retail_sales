@@ -5,17 +5,17 @@
 
 ## Objectives
 
-1. **Set up a retail sales database**: Create and populate a retail sales database with the provided sales data.
-2. **Data Cleaning**: Identify and remove any records with missing or null values.
-3. **Exploratory Data Analysis (EDA)**: Perform basic exploratory data analysis to understand the dataset.
-4. **Business Analysis**: Use SQL to answer specific business questions and derive insights from the sales data.
+- Build a Retail Sales Database: Create a database and import the sales dataset into it.
+- Clean the Data: Check for missing or null values and remove incomplete records.
+- Explore the Data: Run initial analysis to better understand patterns within the dataset.
+- Analyze Business Questions: Use SQL queries to answer real business questions and extract meaningful insights.
 
 ## Project Structure
 
 ### 1. Database Setup
 
-- **Database Creation**: The project starts by creating a database named `p1_retail_db`.
-- **Table Creation**: A table named `retail_sales` is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
+- Create Database: A database called p1_retail_db is created to store all project data.
+- Create Table: A table named retail_sales is built to hold the sales records, including details such as transaction ID, date, time, customer information, product category, quantity, pricing, cost, and total sales amount.
 
 
 ### 2. Data Exploration & Cleaning
